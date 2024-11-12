@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Html Css Dersleri</title>
     <link rel="stylesheet" href="assets/style/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
 <body>
     <header>
@@ -25,6 +26,41 @@
 
 
     <main>
+ <section class="main-slider">
+    <!-- Swiper -->
+ <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img src="https://swiperjs.com/demos/images/nature-1.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="https://swiperjs.com/demos/images/nature-4.jpg" />
+      </div>
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+ </section>
+
+ <section class="main-about">
+    <div class="main-about-heade">
+        <h1>Hakkımızda</h1>
+    </div>
+    <div class="main-about-body">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit libero possimus magnam delectus tempore ut dolore explicabo aperiam a doloribus!
+    </div>
+    <div class="main-about-header">
+        <button class="main-btn">İletişime Geç</button>
+    </div>
+ </section>
+
 
     </main>
 
@@ -32,5 +68,9 @@
 
 </footer>
 
+ <!-- Swiper JS -->
+ <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+ <script src="assets/js/app.js"></script>
 </body>
 </html>
