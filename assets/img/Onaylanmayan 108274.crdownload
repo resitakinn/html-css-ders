@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="tr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="google-site-verification" content="cjM73Nnx7yt3JUCb0GrYc5d3sURKCnBD2_I9G_GRZ9E" />
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="pingback" href="http://uyksef.org.tr/xmlrpc.php" /> 
+<title>Referanslar &#8211; Uyksef</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='belgeSorgu_Front_namespace-css' href='http://uyksef.org.tr/wp-content/plugins/belgeSorgu/style.css?ver=6.7.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://uyksef.org.tr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wrcptfront-css' href='http://uyksef.org.tr/wp-content/plugins/wrc-pricing-tables/css/wrcpt-front.css?ver=2.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-css' href='//fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&#038;family=Roboto:wght@400;700&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='complete-style-css' href='http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/style.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='complete-style-core-css' href='http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/style_core.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='complete-animated_css-css' href='http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/css/animate.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='complete-static_css-css' href='http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/css/nivo-slider.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='complete-gallery_css-css' href='http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/css/prettyPhoto.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='complete-awesome_css-css' href='http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/fonts/font-awesome.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='complete_google_fonts-css' href='//fonts.googleapis.com/css?family=Rajdhani%3Aregular%2C700%2C600%2C500%2C300%7CAssistant%3A200%2C800%2C700%2C600%2C400%2C300%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<link rel='stylesheet' id='elementor-icons-css' href='http://uyksef.org.tr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.32.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://uyksef.org.tr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.10' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='http://uyksef.org.tr/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='http://uyksef.org.tr/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.10' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1376-css' href='http://uyksef.org.tr/wp-content/uploads/elementor/css/post-1376.css?ver=1622532905' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1937-css' href='http://uyksef.org.tr/wp-content/uploads/elementor/css/post-1937.css?ver=1694679152' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;subset=latin-ext&#038;ver=6.7.1' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="http://uyksef.org.tr/wp-content/plugins/belgeSorgu/script.js?ver=6.7.1" id="belgeSorgu_Front_namespace-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/complete.js?ver=1" id="complete_js-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/other.js?ver=1" id="complete_otherjs-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/jquery.bxslider.min.js?ver=1" id="complete_testimonialjs-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/index.js?ver=1" id="complete_index-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/jquery.quicksand.js?ver=1" id="complete_galjs1-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/script.js?ver=1" id="complete_galjs3-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/counterup.min.js?ver=1" id="complete_count-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/verticalslider.js?ver=1" id="complete_verticalslider-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/themes/skt-fitness-pro/assets/js/jquery.prettyPhoto.js?ver=1" id="complete_galjs4-js"></script>
+<link rel="https://api.w.org/" href="http://uyksef.org.tr/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="http://uyksef.org.tr/wp-json/wp/v2/pages/1937" /><meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="http://uyksef.org.tr/referanslar/" />
+<link rel='shortlink' href='http://uyksef.org.tr/?p=1937' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://uyksef.org.tr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fuyksef.org.tr%2Freferanslar%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://uyksef.org.tr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fuyksef.org.tr%2Freferanslar%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><style type="text/css">
+
+/*Fixed Background*/
+
+	/*BOXED LAYOUT*/
+	.site_boxed .layer_wrapper, body.home.site_boxed #slidera {width: 83.5%;float: left;margin: 0 8.25%;
+	background: #ffffff;}
+	.site_boxed .stat_bg, .site_boxed .stat_bg_overlay{width: 83.5%;}
+	.site_boxed .social_buttons{background: #ffffff;}
+	.site_boxed .center {width: 95%!important;margin: 0 auto;}
+	.site_boxed .head_top .center{ width:95%!important;}
+
+
+
+/*Site Content Text Style*/
+body, button, input, select, textarea{ 
+	font-family:Rajdhani; 	}
+
+.footer-post-area ul li h4,
+.footer-post-area ul li h4 a{font-family:Rajdhani;}
+
+.single_post .single_post_content .tabs li a:link, .single_post .single_post_content .tabs li a:visited{ color:#2b2b2b;}
+
+.page_head{ background:#545556; color:#555555;}
+.page_head .postitle{color:#555555;}	
+.page_head .layerbread a:link, .page_head .layerbread a:visited{color:#555555;}	
+.page_head_bg{background:url(http://uyksef.org.tr/wp-content/uploads/2021/02/header.jpg);}
+
+
+/*Feattured Boxes Section*/
+.featured_area_bg{background:url();}
+.featured_area{background-color:#f2f2f2;}
+.featured_block img{height:70px;; width:70px;} 
+.featured_block{background-color:#ffffff;}
+
+.sktmore,
+.newsletter-form input[type="submit"]{background-color:#e73a34;}
+.sktmore:hover,
+.newsletter-form input[type="submit"]:hover{background-color:#141414;}
+
+.expanding-grid .spacer{background-color:#e73a34;}
+.expand-left h2, .expand-left{color:#000000;}
+
+.headingseperator h3{color:#000000;}
+.headingseperator h3::after{border-bottom-color:#e73a34;}
+
+.expanding-grid .links > li a.active:after{border-bottom-color:#e73a34;}
+
+.squarebox{background-color:#ffffff;}
+.squarebox:hover{background-color:#79ab9f;}
+.squaretitle{color:#000000;}
+
+.perfectbox{background-color:#ffffff; border-color:#eaeaea;}
+.perfectborder:hover, .perfectbox:hover{border-color:#e73a34 !important;}
+
+.post_block_style3{background-color:#ffffff; border-color:#eaeaea;}
+.post_block_style3:before{background:#9f9f9f;}
+
+/*-----------------------------COLORS------------------------------------*/
+		/*Header Color*/
+		.header{background-color: rgba(255,255,255, 1);}
+				
+				
+		/*Head Top Bar Color*/
+		.head-info-area{background-color: rgba(34,34,34, 1);}
+		
+				.header{background:#fff!important;}
+				
+		
+		@media screen and (max-width: 767px){
+		.home.has_trans_header .header{background:#fff!important;}
+		}
+		/*LOGO*/
+		.logo img{height:105px; width:360px; margin-top:0px;} 
+
+				.logo h2, .logo h1, .logo h2 a:link, .logo h2 a:visited, .logo h1 a:link, .logo h1 a:visited, .logo h2 a:hover, .logo h1 a:hover{ 
+			font-family:'Assistant';
+			font-size:36px;
+			color:#343434;
+		}
+		/*HEADER TEXT BAR*/
+				.head-info-area, .head-info-area a:link, .head-info-area a:visited{ 
+			font-family:'Rajdhani'; 						color:#ffffff;
+		}	
+		
+		.head-info-area a:hover{ 
+			color:#edecec;
+		}		
+		
+		a{color:#030305;}
+		a:hover{color:#685031;}
+		
+		
+		/*Slider Title*/
+				.title{ 
+			font-family:'Rajdhani'; 						color:#ffffff;
+		}	
+		
+				.slidedesc{ 
+			font-family:'Rajdhani'; 						color:#ffffff;
+		}	
+		
+				.slidebtn{ 
+			font-family:'Rajdhani'; 			;
+		}
+		.slider-main .nivo-caption .slidebtn a{ 
+			color:#232323; 
+			background: #fff;
+		}	
+		.slider-main .nivo-caption .slidebtn a:hover{color:#ffffff; 
+		background: #282828;}
+		
+		.nivo-controlNav a{background-color:#ffffff}
+		.nivo-controlNav a.active{background-color:#e73a34}				
+		
+		.skt-builder-wave g{fill: #F6F9FE;} 
+		
+		/* Global H1 */	
+						h1{ 
+			font-family:'Rajdhani'; 						color:#282828;
+		}
+		
+		h1 a:hover{ 
+			color:#e73a34;
+		}
+		
+		/* Global H2 */	
+						h2{ 
+			font-family:'Rajdhani'; 					color:#282828;
+		}
+		
+		h2 a:hover{ 
+			color:#e73a34;
+		}
+				
+		/* Global H3 */	
+						h3{ 
+			font-family:'Rajdhani'; 					color:#282828;
+		}
+		
+		h3 a:hover{ 
+			color:#e73a34;
+		}
+		
+		/* Global H4 */	
+						h4{ 
+			font-family:'Rajdhani'; 					color:#282828;
+		}
+		
+		h4 a:hover{ 
+			color:#e73a34;
+		}	
+		
+		/* Global H5 */	
+						h5{ 
+			font-family:'Rajdhani'; 					color:#282828;
+		}
+		
+		h5 a:hover{ 
+			color:#e73a34;
+		}	
+		
+		/* Global H6 */	
+						h6{ 
+			font-family:'Rajdhani'; 					color:#282828;
+		}
+		
+		h6 a:hover{ 
+			color:#e73a34;
+		}
+		
+		/* Post Meta Color */
+		.post_block_style1_meta, .post_block_style1_meta a:link, .post_block_style1_meta a:visited, .post_block_style2_meta, .post_block_style2_meta a:link, .post_block_style2_meta a:visited, .single_metainfo, .single_metainfo a:link, .single_metainfo a:visited{ 
+			color:#606060;
+		}
+		
+		/* Team Box Background Color */
+		.skt-team-box .team-title a{ 
+			background-color:#19232f;
+		}
+		
+		/* Social Icon Background Color */
+		.social-icons a:link, .social-icons a:visited{ 
+			background-color:#202020;
+			color:#fff;
+		}	
+		
+		/* Social Icon Hover Background Color */
+		.footer-social-icons .social-icons a:hover{ 
+			background-color:#e73a34;
+			color:#202020;
+			border-color:#e73a34;
+		}
+		
+		/* Teambox Background Color */
+		.team-member-img::before{background:#19232f;}
+		.skt-team-box .team-title a{color:#fff;}
+		.skt-team-box .team-designation{color:#959595;}
+		
+
+		.bx-viewport ul li{background:#fff;}
+		.testimonial-box{ 
+			background-color:#fff;
+		}	
+		.testimonial-box:after{ 
+			border-top-color:#fff;
+		}
+		.bxslider li h3, .bx-viewport ul li h2{color:#fb393a;}
+		.bxslider li p{color:#6a6a6a;}
+		.testimonilacontent {color:#6a6a6a;}
+		
+		.bxslider li{background-color:#fff; }	
+		.bx-viewport::before{border-color:#313131;}
+		
+		/* Pager Color */
+		.bx-wrapper .bx-pager.bx-default-pager a:link, .bx-wrapper .bx-pager.bx-default-pager a:visited{ 
+			background:#fff;
+		}	
+		
+		/* Pager Active Color */
+		.bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active{ 
+			background:#e73a34;
+		}
+		
+		/* Gallery Filter Color */
+		.portfolio-content .portfolio-categ li a{color:#19232f;}		
+		
+		/* Gallery Filter Active Color */
+		.portfolio-content .portfolio-categ .active a{color:#e63b34;}	
+		.teacher-name{color:#cecfd1;}
+		.class-time{background:#e63b34;}
+		.class-name{color:#19232f;}
+		
+		.mega-hover{background-color: rgba(230,59,52, 0.7);}
+		.mega-hovertitle{color:#cecfd1;}
+		.slider-shadow{background-color: rgba(4,6,8, 0);}
+		.slider-main .nivo-caption{background-color: rgba(0,0,0, 0.1);}
+		
+		/* Skills Bar Background Color */
+		.skill-bg{ 
+			background-color:#f8f8f8;
+		}	
+		
+		/* Skills Bar Text Color */
+		.skillbar-title{ 
+			color:#ffffff;
+		}			
+															
+		#simple-menu{color:#3d3d3d;}
+		body.home.has_trans_header #simple-menu{color:#fff;}
+		span.desc{color:#343434;}
+		
+		.header-extras li a,
+		.header-extras li .header-search-toggle{color:#3d3d3d;}
+		.header-extras li a:hover,
+		.header-extras li .header-search-toggle:hover{color: #e73a34;}
+		.header-extras li .custom-cart-count{background-color: #e73a34; color:#3d3d3d;}
+		
+		/*MENU Text Color*/
+		#topmenu ul li a{color:#3d3d3d;}
+		#topmenu ul li.menu_hover a:link, #topmenu ul li.menu_hover a:visited{border-color:#e73a34;}
+		#topmenu ul li.menu_hover>a:link, #topmenu ul li.menu_hover>a:visited, body.has_trans_header.home #topmenu ul li.menu_hover>a:link, body.has_trans_header.home #topmenu ul li.menu_hover>a:visited{color:#e73a34;}
+		#topmenu ul li.current-menu-item>a:link, #topmenu ul li.current-menu-item>a:visited, #topmenu ul li.current-menu-parent>a:link, #topmenu ul li.current_page_parent>a:visited, #topmenu ul li.current-menu-ancestor>a:link, #topmenu ul li.current-menu-ancestor>a:visited{color:#e73a34;}
+		#topmenu ul li ul{border-color:#e73a34 transparent;}
+		#topmenu ul.menu>li:hover:after{background-color:#e73a34;}
+		#topmenu ul li ul li a:hover{color:#e73a34;}
+		
+		#topmenu ul li.appointment-btn a{color:#fff !important; 
+				background-image:linear-gradient(#17d9f6,#1b80e9);}}
+		#topmenu ul li.appointment-btn a:hover{background-color: #3d3d3d; color: #282828 !important;}
+		#topmenu ul li.appointment-btn a::before{border-top: 30px solid #1b80e9;}
+		#topmenu ul li.appointment-btn a::after{border-top: 30px solid #1b80e9;;}
+		
+#topmenu ul li.current-menu-item > a:link:after, #topmenu ul li.current-menu-item > a:visited:after, #topmenu ul li.current-menu-parent > a:link:after, #topmenu ul li.current_page_parent > a:visited:after, #topmenu ul li.current-menu-ancestor > a:link:after, #topmenu ul li.current-menu-ancestor > a:visited:after{content:''; border-bottom-color:#e73a34 !important;}		
+		
+		#topmenu ul.menu ul li{background-color:#222222;}		
+		
+		#topmenu ul.sub-menu li a, #topmenu ul.children li a{color:#ffffff;}	
+		#topmenu ul.sub-menu li a:hover, #topmenu ul.children li a:hover, #topmenu li.menu_highlight_slim:hover, #topmenu ul.sub-menu li.current_page_item a, #topmenu ul.children li.current_page_item a, #topmenu ul.sub-menu li.current-menu-item a, #topmenu ul.children li.current-menu-item a{background-color:#222222 !important;}	
+
+		.sidr{ background-color:#222222;}
+		.pad_menutitle{ background-color:#e73a34;}
+		.sidr ul li a, .sidr ul li span, .sidr ul li ul li a, .sidr ul li ul li span{color:#ffffff;}
+		.sidr ul li.sidr-class-current-menu-item > a{color:#e73a34;}
+		
+		#simple-menu .fa-bars{color:#e73a34 !important;}
+		.pad_menutitle .fa-bars, .pad_menutitle .fa-times{color:#ffffff !important;}				
+
+		.head_soc .social_bookmarks a:link, .head_soc .social_bookmarks a:visited{color:#3d3d3d;}
+		.head_soc .social_bookmarks.bookmark_hexagon a:before {border-bottom-color: rgba(61,61,61, 0.3)!important;}
+		.head_soc .social_bookmarks.bookmark_hexagon a i {background:rgba(61,61,61, 0.3)!important;}
+		.head_soc .social_bookmarks.bookmark_hexagon a:after { border-top-color:rgba(61,61,61, 0.3)!important;}
+		
+
+		/*BASE Color*/
+		.widget_border, .heading_border, #wp-calendar #today, .thn_post_wrap .more-link:hover, .moretag:hover, .search_term #searchsubmit, .error_msg #searchsubmit, #searchsubmit, .complete_pagenav a:hover, .nav-box a:hover .left_arro, .nav-box a:hover .right_arro, .pace .pace-progress, .homeposts_title .menu_border, span.widget_border, .ast_login_widget #loginform #wp-submit, .prog_wrap, .lts_layout1 a.image, .lts_layout2 a.image, .lts_layout3 a.image, .rel_tab:hover .related_img, .wpcf7-submit, .woo-slider #post_slider li.sale .woo_sale, .nivoinner .slide_button_wrap .lts_button, #accordion .slide_button_wrap .lts_button, .img_hover, p.form-submit #submit, .optimposts .type-product a.button.add_to_cart_button{background:#e73a34;} 
+		
+		.share_active, .comm_auth a, .logged-in-as a, .citeping a, .lay3 h2 a:hover, .lay4 h2 a:hover, .lay5 .postitle a:hover, .nivo-caption p a, .acord_text p a, .org_comment a, .org_ping a, .contact_submit input:hover, .widget_calendar td a, .ast_biotxt a, .ast_bio .ast_biotxt h3, .lts_layout2 .listing-item h2 a:hover, .lts_layout3 .listing-item h2 a:hover, .lts_layout4 .listing-item h2 a:hover, .lts_layout5 .listing-item h2 a:hover, .rel_tab:hover .rel_hover, .post-password-form input[type~=submit], .bio_head h3, .blog_mo a:hover, .ast_navigation a:hover, .lts_layout4 .blog_mo a:hover{color:#e73a34;}
+		#home_widgets .widget .thn_wgt_tt, #sidebar .widget .thn_wgt_tt, #footer .widget .thn_wgt_tt, .astwt_iframe a, .ast_bio .ast_biotxt h3, .ast_bio .ast_biotxt a, .nav-box a span, .lay2 h2.postitle:hover a{color:#e73a34;}
+		.pace .pace-activity{border-top-color: #e73a34!important;border-left-color: #e73a34!important;}
+		.pace .pace-progress-inner{box-shadow: 0 0 10px #e73a34, 0 0 5px #e73a34;
+		  -webkit-box-shadow: 0 0 10px #e73a34, 0 0 5px #e73a34;
+		  -moz-box-shadow: 0 0 10px #e73a34, 0 0 5px #e73a34;}
+		
+		.fotorama__thumb-border, .ast_navigation a:hover{ border-color:#e73a34!important;}
+		
+		
+		/*Text Color on BASE COLOR Element*/
+		.icon_round a, #wp-calendar #today, .moretag:hover, .search_term #searchsubmit, .error_msg #searchsubmit, .complete_pagenav a:hover, .ast_login_widget #loginform #wp-submit, #searchsubmit, .prog_wrap, .rel_tab .related_img i, .lay1 h2.postitle a, .nivoinner .slide_button_wrap .lts_button, #accordion .slide_button_wrap .lts_button, .lts_layout1 .icon_wrap a, .lts_layout2 .icon_wrap a, .lts_layout3 .icon_wrap a, .lts_layout1 .icon_wrap a:hover{color:#ffffff;}
+		.thn_post_wrap .listing-item .moretag:hover, body .lts_layout1 .listing-item .title, .lts_layout2 .img_wrap .complete_plus, .img_hover .icon_wrap a, body .thn_post_wrap .lts_layout1 .icon_wrap a, .wpcf7-submit, .woo-slider #post_slider li.sale .woo_sale, p.form-submit #submit, .optimposts .type-product a.button.add_to_cart_button{color:#ffffff;}
+
+
+
+
+/*Sidebar Widget Background Color */
+#sidebar .widget{ background:#FFFFFF;}
+#sidebar .widget_wrap{border-color:#eeeff5;}
+/*Widget Title Color */
+#sidebar .widget-title, #sidebar .widget-title a{color:#666666;}
+
+#sidebar #sidebar .widget, #sidebar .widget .widget_wrap{ color:#999999;}
+#sidebar .widget .widgettitle, #sidebar .widget .widgettitle a:link, #sidebar .widget .widgettitle a:visited{font-size:16px;}
+
+#sidebar .widget li a, #sidebar .widget a{ color:#e73a34;}
+#sidebar .widget li a:hover, #sidebar .widget a:hover{ color:#999999;}
+
+
+.flipcard .front{background-color:#ffffff; border-color:#e0e0e0;}
+
+.flipcard .back{background-color:#f7f7f7; border-color:#000000;}
+
+.divider5 span, .divider6 span{background-color:#8c8b8b;}
+.divider1, .divider2, .divider3, .divider4, .divider5, .divider6, .fusion-title .title-sep, .fusion-title.sep-underline, .product .product-border, .fusion-title .title-sep{border-color:#8c8b8b;}
+
+.timeline-both-side li .timeline-description{background-color:#ffffff;}
+
+.timeline-both-side:before, .timeline-both-side li .border-line, .timeline-both-side li .border-line:before{background-color:#dedede;}
+
+.timeline-both-side:after, .timeline-both-side li .timeline-description{border-color:#dedede;}
+.griditem{background-color:#ffffff;}
+.griditem{border-color:#cccccc;}
+
+.serviceboxbg{background:rgba(231,58,52, 0.8); border-right-color:#30a0fd;}
+.serviceboxbg:hover{background-color:#685031;}
+.servicebox h3, .serviceboxbg p{color:#ffffff !important;}
+.sktgo, .sktgo:hover{background-color:#ffffff;}
+
+#footer .footercols1 h3, #footer .footercols2 h3, #footer .footercols3 h3, #footer .footercols4 h3{color:#fff;}
+
+#footer .footercols1 h3::after,
+#footer .footercols2 h3::after,
+#footer .footercols3 h3::after,
+#footer .footercols4 h3::after{background-color: #fff;}
+
+.footer-infobox .center{border-color: #435f8e;}
+
+.footmenu li a,
+.footer-blog-posts ul li a{color: #c7c7c7;}
+
+.footmenu li a:hover,
+.footer-blog-posts ul li a:hover,
+.footmenu li.current-menu-item a,
+.footmenu li.current_page_item a{color: #e73a34;}
+
+/*FOOTER WIDGET COLORS*/
+#footer{background-color: #141414; background-image: url();}
+#footer .footercols1, #footer .footercols2, #footer .footercols3, #footer .footercols4, .footer-post-area ul li h4, .footer-post-area ul li h4 a:link, .footer-post-area ul li h4 a:visited{color:#c7c7c7;}
+#footer .contact-info{background-color: #141414;}
+
+/*COPYRIGHT COLORS*/
+#copyright{background-color: #0f0f0f;}
+
+.copytext, .copytext a:link, .copytext a:visited{color: #cecece;}
+.copytext{color: #cecece;}
+
+.foot_soc .social_bookmarks a:link, .foot_soc .social_bookmarks a:visited{color:#cecece;}
+.foot_soc .social_bookmarks.bookmark_hexagon a:before {border-bottom-color: rgba(206,206,206, 0.3);}
+.foot_soc .social_bookmarks.bookmark_hexagon a i {background:rgba(206,206,206, 0.3);}
+.foot_soc .social_bookmarks.bookmark_hexagon a:after { border-top-color:rgba(206,206,206, 0.3);}
+
+
+
+/*-------------------------------------TYPOGRAPHY--------------------------------------*/
+
+/*Post Titles and headings Font*/
+.postitle, .product_title{ font-family:Assistant;}
+
+/*Menu Font*/
+#topmenu ul li a{ font-family:Rajdhani;}
+
+
+
+#topmenu ul li a{font-size:16px;}
+#topmenu ul li {line-height: 16px;}
+
+/*Body Text Color*/
+body, .home_cat a, .contact_submit input, .comment-form-comment textarea{ color:#2b2b2b;}
+.single_post_content .tabs li a{ color:#2b2b2b;}
+.thn_post_wrap .listing-item .moretag{ color:#2b2b2b;}
+	
+	
+
+/*Post Title */
+.postitle, .postitle a, .nav-box a, h3#comments, h3#comments_ping, .comment-reply-title, .related_h3, .nocomments, .lts_layout2 .listing-item h2 a, .lts_layout3 .listing-item h2 a, .lts_layout4 .listing-item h2 a, .author_inner h5, .product_title, .woocommerce-tabs h2, .related.products h2, .optimposts .type-product h2.postitle a, .woocommerce ul.products li.product h3{ text-decoration:none; color:#666666;}
+
+/*Woocommerce*/
+.optimposts .type-product a.button.add_to_cart_button:hover{background-color:#ffffff;color:#e73a34;} 
+.optimposts .lay2_wrap .type-product span.price, .optimposts .lay3_wrap .type-product span.price, .optimposts .lay4_wrap  .type-product span.price, .optimposts .lay4_wrap  .type-product a.button.add_to_cart_button{color:#666666;}
+.optimposts .lay2_wrap .type-product a.button.add_to_cart_button:before, .optimposts .lay3_wrap .type-product a.button.add_to_cart_button:before{color:#666666;}
+.optimposts .lay2_wrap .type-product a.button.add_to_cart_button:hover:before, .optimposts .lay3_wrap .type-product a.button.add_to_cart_button:hover:before, .optimposts .lay4_wrap  .type-product h2.postitle a{color:#e73a34;}
+
+
+
+@media screen and (max-width: 480px){
+body.home.has_trans_header .header .logo h1 a:link, body.home.has_trans_header .header .logo h1 a:visited{ color:#343434!important;}
+body.home.has_trans_header .header #simple-menu{color:#3d3d3d!important;}
+}
+
+/*USER'S CUSTOM CSS---------------------------------------------------------*/
+span.desc{display: none;}/*---------------------------------------------------------*/
+</style>
+
+<!--[if IE]>
+<style type="text/css">
+.text_block_wrap, .home .lay1, .home .lay2, .home .lay3, .home .lay4, .home .lay5, .home_testi .looper, #footer .widgets{opacity:1!important;}
+#topmenu ul li a{display: block;padding: 20px; background:url(#);}
+</style>
+<![endif]-->
+<meta name="generator" content="Elementor 3.25.10; features: additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="http://uyksef.org.tr/wp-content/uploads/2021/02/cropped-fav-01-e1613937520986-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://uyksef.org.tr/wp-content/uploads/2021/02/cropped-fav-01-e1613937520986-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://uyksef.org.tr/wp-content/uploads/2021/02/cropped-fav-01-e1613937520986-180x180.png" />
+<meta name="msapplication-TileImage" content="http://uyksef.org.tr/wp-content/uploads/2021/02/cropped-fav-01-e1613937520986-270x270.png" />
+</head>
+
+<body class="page-template page-template-templates page-template-page-fullwidth_template page-template-templatespage-fullwidth_template-php page page-id-1937 site_full not_frontpage elementor-default elementor-kit-1376 elementor-page elementor-page-1937">
+<!--HEADER-->
+<div class="header_wrap layer_wrapper">
+<div class="">
+		<!--HEADER STARTS-->
+
+<div class="header type4">
+  <div class="centerlogo"> 
+    <!--LOGO START-->
+    <div class="logo">
+            <a class="logoimga" title="Uyksef" href="http://uyksef.org.tr/"><img src="http://uyksef.org.tr/wp-content/uploads/2021/02/web-logo-01.png" /></a> <span class="desc">Uluslararası Yakın Koruma Savunma Eğitim Federasyonu</span>
+          </div>
+    <!--LOGO END--> 
+  </div>
+  <div class="center centerlogoarea">
+    <div class="head_inner"> 
+      <!--MENU START--> 
+      <!--MOBILE MENU START--> 
+      <a id="simple-menu" href="#sidr"><i class="fa-bars"></i></a> 
+      <!--MOBILE MENU END-->
+      <div id="topmenu" class="">
+        <div class="menu-header"><ul id="menu-header" class="menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-37"><a href="http://uyksef.org.tr/">Anasayfa</a></li>
+<li id="menu-item-1625" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1625"><a href="#">Kurumsal</a>
+<ul class="sub-menu">
+	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="http://uyksef.org.tr/hakkimizda/">Hakkımızda</a></li>
+	<li id="menu-item-1628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1628"><a href="http://uyksef.org.tr/kurullar/">Kurullar</a></li>
+	<li id="menu-item-1631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="http://uyksef.org.tr/bilgi-bankasi/">Bilgi Bankası</a></li>
+	<li id="menu-item-1630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="http://uyksef.org.tr/yurtici-temsilciliklerimiz/">Yurt içi Temsilciliklerimiz</a></li>
+	<li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1629"><a href="http://uyksef.org.tr/yurt-disi-temsilciliklerimiz/">Yurt Dışı Temsilciliklerimiz</a></li>
+	<li id="menu-item-1928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928"><a href="http://uyksef.org.tr/egitim-temsilciligi-nedir/">Eğitim Temsilciliği Nedir?</a></li>
+	<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="http://uyksef.org.tr/makami-temsilci-nedir/">Makamı Temsilci Nedir?</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1937 current_page_item menu-item-1985"><a href="http://uyksef.org.tr/referanslar/" aria-current="page">Referanslar</a></li>
+</ul>
+</li>
+<li id="menu-item-1681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1681"><a href="#">Eğitimlerimiz</a>
+<ul class="sub-menu">
+	<li id="menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1685"><a href="http://uyksef.org.tr/askerlere-ozel-egitim/">Askerlere Özel Eğitim</a></li>
+	<li id="menu-item-1936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href="http://uyksef.org.tr/silah-egitimi/">Silah Eğitimi</a></li>
+	<li id="menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1684"><a href="http://uyksef.org.tr/egitim-icerikleri/">Eğitim İçerikleri</a></li>
+	<li id="menu-item-1683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1683"><a href="http://uyksef.org.tr/birebir-egitim/">Birebir Eğitim</a></li>
+	<li id="menu-item-1682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1682"><a href="http://uyksef.org.tr/yakin-koruma-egitim-kampi/">Yakın Koruma Eğitim Kampı</a></li>
+	<li id="menu-item-2016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2016"><a href="http://uyksef.org.tr/birebir-yakin-koruma-egitimi/">Birebir Yakın Koruma Eğitimi</a></li>
+	<li id="menu-item-1867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1867"><a href="http://uyksef.org.tr/2022-yili-cpo-egitimleri/">2022 Yılı CPO Eğitimleri</a></li>
+	<li id="menu-item-2639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2639"><a href="http://uyksef.org.tr/2023-yili-cpo-egitimleri/">2023 Yılı CPO Eğitimleri</a></li>
+</ul>
+</li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://uyksef.org.tr/haberler-duyurular/">Haberler/Duyurular</a></li>
+<li id="menu-item-1739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1739"><a href="#">Galeri</a>
+<ul class="sub-menu">
+	<li id="menu-item-1905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1905"><a href="http://uyksef.org.tr/uyksef-gorseller/">Uyksef Görseller</a></li>
+	<li id="menu-item-1740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1740"><a href="http://uyksef.org.tr/videolar/">Videolar</a></li>
+</ul>
+</li>
+<li id="menu-item-1854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="http://uyksef.org.tr/sertifika-sorgulama/">Sertifika Sorgulama</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="http://uyksef.org.tr/iletisim/">İletişim</a></li>
+</ul></div>      </div>
+      <!--MENU END-->
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
+<!--HEADER ENDS-->    </div>
+</div><!--layer_wrapper class END-->
+<!--Slider START-->
+     
+<!--Slider END-->    <div class="page_fullwidth_wrap layer_wrapper">
+    	        <!--CUSTOM PAGE HEADER STARTS-->
+				
+
+      	<!--Header for PAGE & POST-->
+    <div class="">
+	      <div class="page_head page_head_bg"></div>
+		
+
+	</div>
+      <!--page_head class END-->
+    
+   
+      	  
+      
+      
+        <!--CUSTOM PAGE HEADER ENDS-->
+            <div id="content">
+        <div class="center">
+            <div class="single_wrap no_sidebar">
+                <div class="single_post">
+					                        <div class="post-1937 page type-page status-publish hentry" id="post-1937">  
+                        <!--EDIT BUTTON START-->
+                                                    <!--EDIT BUTTON END-->
+                        <!--PAGE CONTENT START--> 
+                        <div class="single_post_content">
+                                <!--THE CONTENT START-->
+                                    <div class="thn_post_wrap">
+                                    	<h1 class="page-title">Referanslar</h1>
+                                        		<div data-elementor-type="wp-page" data-elementor-id="1937" class="elementor elementor-1937">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-915408c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="915408c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f4613b3" data-id="f4613b3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-576d33e elementor-widget elementor-widget-image" data-id="576d33e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-36" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzNSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTM2LmpwZyJ9">
+							<img fetchpriority="high" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-1024x1024.jpg" class="attachment-large size-large wp-image-2135" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-36-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f7d02e2" data-id="f7d02e2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-58c27ef elementor-widget elementor-widget-image" data-id="58c27ef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-33-33" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzNywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTMzLTMzLmpwZyJ9">
+							<img decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-1024x1024.jpg" class="attachment-large size-large wp-image-2137" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-33-33-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d6d9623" data-id="d6d9623" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e9d24df elementor-widget elementor-widget-image" data-id="e9d24df" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-35" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzNCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTM1LmpwZyJ9">
+							<img decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-1024x1024.jpg" class="attachment-large size-large wp-image-2134" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-35-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d59eb32" data-id="d59eb32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fd51ac4 elementor-widget elementor-widget-image" data-id="fd51ac4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-34" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTM0LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-1024x1024.jpg" class="attachment-large size-large wp-image-2133" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-34-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3a1f6bf" data-id="3a1f6bf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-37499ff elementor-widget elementor-widget-image" data-id="37499ff" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-05" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTA1LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-1024x1024.jpg" class="attachment-large size-large wp-image-2104" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-05-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e95f9ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e95f9ff" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-c959e1c" data-id="c959e1c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-09ea9a5 elementor-widget elementor-widget-image" data-id="09ea9a5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-06" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTA2LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-1024x1024.jpg" class="attachment-large size-large wp-image-2105" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-06-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e54a964" data-id="e54a964" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-76e1cd3 elementor-widget elementor-widget-image" data-id="76e1cd3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-07" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNiwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTA3LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-1024x1024.jpg" class="attachment-large size-large wp-image-2106" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-07-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9146fc0" data-id="9146fc0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6a0d751 elementor-widget elementor-widget-image" data-id="6a0d751" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-08" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwNywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTA4LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-1024x1024.jpg" class="attachment-large size-large wp-image-2107" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-08-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-73616b1" data-id="73616b1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f4a5ffd elementor-widget elementor-widget-image" data-id="f4a5ffd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-09" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwOCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTA5LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-1024x1024.jpg" class="attachment-large size-large wp-image-2108" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-09-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-054ddf0" data-id="054ddf0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-de79cc5 elementor-widget elementor-widget-image" data-id="de79cc5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwOSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTEwLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-1024x1024.jpg" class="attachment-large size-large wp-image-2109" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-10-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0efbe38 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0efbe38" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-a5ef9c9" data-id="a5ef9c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-36991f3 elementor-widget elementor-widget-image" data-id="36991f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-11" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTExLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-1024x1024.jpg" class="attachment-large size-large wp-image-2110" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-11-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9537040" data-id="9537040" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f77360a elementor-widget elementor-widget-image" data-id="f77360a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-12" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTEyLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-1024x1024.jpg" class="attachment-large size-large wp-image-2111" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-12-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d0c4f36" data-id="d0c4f36" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-30c6da2 elementor-widget elementor-widget-image" data-id="30c6da2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-13" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMiwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTEzLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-1024x1024.jpg" class="attachment-large size-large wp-image-2112" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-13-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-577daf6" data-id="577daf6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ec8adaf elementor-widget elementor-widget-image" data-id="ec8adaf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-14" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExMywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTE0LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-1024x1024.jpg" class="attachment-large size-large wp-image-2113" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-14-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b89a7e0" data-id="b89a7e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-256e36e elementor-widget elementor-widget-image" data-id="256e36e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-15" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExNCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTE1LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-1024x1024.jpg" class="attachment-large size-large wp-image-2114" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-15-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0e0362e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0e0362e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-85b6f70" data-id="85b6f70" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-17a3653 elementor-widget elementor-widget-image" data-id="17a3653" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-16" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExNSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTE2LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-1024x1024.jpg" class="attachment-large size-large wp-image-2115" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-16-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-c36db4a" data-id="c36db4a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8a09e4b elementor-widget elementor-widget-image" data-id="8a09e4b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-17" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExNiwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTE3LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-1024x1024.jpg" class="attachment-large size-large wp-image-2116" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-17-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-cfc81b0" data-id="cfc81b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-448e760 elementor-widget elementor-widget-image" data-id="448e760" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-18" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExNywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTE4LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-1024x1024.jpg" class="attachment-large size-large wp-image-2117" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-18-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-7a7b0de" data-id="7a7b0de" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-24ea6a3 elementor-widget elementor-widget-image" data-id="24ea6a3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-19" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExOCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTE5LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-1024x1024.jpg" class="attachment-large size-large wp-image-2118" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-19-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-bad1cbc" data-id="bad1cbc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4d1a29a elementor-widget elementor-widget-image" data-id="4d1a29a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-20" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjExOSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTIwLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-1024x1024.jpg" class="attachment-large size-large wp-image-2119" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-20-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d05f17 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d05f17" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3331616" data-id="3331616" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1ef29ce elementor-widget elementor-widget-image" data-id="1ef29ce" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-21" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyMCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTIxLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-1024x1024.jpg" class="attachment-large size-large wp-image-2120" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-21-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1954dc6" data-id="1954dc6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a688c34 elementor-widget elementor-widget-image" data-id="a688c34" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Referans-01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjY1MSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyM1wvMDlcL1JlZmVyYW5zLTAxLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-1024x1024.jpg" class="attachment-large size-large wp-image-2651" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2023/09/Referans-01-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e98a14a" data-id="e98a14a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bdb673e elementor-widget elementor-widget-image" data-id="bdb673e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-23" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyMiwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTIzLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-1024x1024.jpg" class="attachment-large size-large wp-image-2122" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-23-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3f938ad" data-id="3f938ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d6b146a elementor-widget elementor-widget-image" data-id="d6b146a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-24" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyMywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTI0LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-1024x1024.jpg" class="attachment-large size-large wp-image-2123" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-24-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2ac19f8" data-id="2ac19f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e6324a3 elementor-widget elementor-widget-image" data-id="e6324a3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-25" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTI1LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-1024x1024.jpg" class="attachment-large size-large wp-image-2124" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-25-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c50823 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c50823" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-95d9ae9" data-id="95d9ae9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d1d40bb elementor-widget elementor-widget-image" data-id="d1d40bb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-26" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTI2LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-1024x1024.jpg" class="attachment-large size-large wp-image-2125" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-26-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9c0941b" data-id="9c0941b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ba8f13e elementor-widget elementor-widget-image" data-id="ba8f13e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-27" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNiwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTI3LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-1024x1024.jpg" class="attachment-large size-large wp-image-2126" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-27-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-241fd60" data-id="241fd60" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f9d832c elementor-widget elementor-widget-image" data-id="f9d832c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-28" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyNywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTI4LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-1024x1024.jpg" class="attachment-large size-large wp-image-2127" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-28-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9121a69" data-id="9121a69" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8be383c elementor-widget elementor-widget-image" data-id="8be383c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-29" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyOCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTI5LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-1024x1024.jpg" class="attachment-large size-large wp-image-2128" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-29-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0923102" data-id="0923102" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-42b28b8 elementor-widget elementor-widget-image" data-id="42b28b8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-30" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEyOSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTMwLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-1024x1024.jpg" class="attachment-large size-large wp-image-2129" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-30-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b0e0f2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b0e0f2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-cd5f710" data-id="cd5f710" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-df43ccd elementor-widget elementor-widget-image" data-id="df43ccd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-31" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTMxLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-1024x1024.jpg" class="attachment-large size-large wp-image-2130" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-31-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-98f2d71" data-id="98f2d71" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-08b2669 elementor-widget elementor-widget-image" data-id="08b2669" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-32" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEzMSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTMyLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-1024x1024.jpg" class="attachment-large size-large wp-image-2131" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-32-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b080624" data-id="b080624" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6dc49ea elementor-widget elementor-widget-image" data-id="6dc49ea" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTAxLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-1024x1024.jpg" class="attachment-large size-large wp-image-2100" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-01-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-cd207ec" data-id="cd207ec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-134e387 elementor-widget elementor-widget-image" data-id="134e387" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-02" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMSwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTAyLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-1024x1024.jpg" class="attachment-large size-large wp-image-2101" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-02-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-306099b" data-id="306099b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8b6155c elementor-widget elementor-widget-image" data-id="8b6155c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-03" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMiwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTAzLmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-1024x1024.jpg" class="attachment-large size-large wp-image-2102" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-03-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-836c418 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="836c418" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-64d49df" data-id="64d49df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e833aa1 elementor-widget elementor-widget-image" data-id="e833aa1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Uyksef_referanslar_1-04" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjEwMywidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDlcL1V5a3NlZl9yZWZlcmFuc2xhcl8xLTA0LmpwZyJ9">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-1024x1024.jpg" class="attachment-large size-large wp-image-2103" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/09/Uyksef_referanslar_1-04-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-a92abfb" data-id="a92abfb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-992d401 elementor-widget elementor-widget-image" data-id="992d401" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Efendi-01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYyMCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTBcL0VmZW5kaS0wMS5qcGcifQ%3D%3D">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-1024x1024.jpg" class="attachment-large size-large wp-image-2620" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/10/Efendi-01-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b2c8a8a" data-id="b2c8a8a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fdce4f3 elementor-widget elementor-widget-image" data-id="fdce4f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Tansu Çiller-01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjYyNCwidXJsIjoiaHR0cDpcL1wvdXlrc2VmLm9yZy50clwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTBcL1RhbnN1LUNpbGxlci0wMS5qcGcifQ%3D%3D">
+							<img loading="lazy" decoding="async" width="690" height="690" src="http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-1024x1024.jpg" class="attachment-large size-large wp-image-2624" alt="" srcset="http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-1024x1024.jpg 1024w, http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-300x300.jpg 300w, http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-150x150.jpg 150w, http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-768x768.jpg 768w, http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-1536x1536.jpg 1536w, http://uyksef.org.tr/wp-content/uploads/2022/10/Tansu-Ciller-01-2048x2048.jpg 2048w" sizes="(max-width: 690px) 100vw, 690px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9689978" data-id="9689978" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e07a62b" data-id="e07a62b" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		                                    </div>
+                                        <div style="clear:both"></div>
+                                    <div class="thn_post_wrap wp_link_pages">
+                                                                            </div>
+                                <!--THE CONTENT END-->
+                        </div>
+                        <!--PAGE CONTENT END-->                       
+                  </div>
+                   
+                  </div><!--single_post class END-->
+                  <!--COMMENT START: Calling the Comment Section. If you want to hide comments from your posts, remove the line below-->     
+                                        <div class="comments_template">
+                          
+ 
+<!-- THE COMMENTS/PING TEMPLATE START -->
+ 
+<!-- If comments are closed. -->
+ 
+ 
+
+<!--COMMENT FORM START--> 
+	<!--COMMENT FORM END-->                       </div>
+                   
+                  <!--COMMENT END-->
+                            </div><!--single_wrap class END-->
+            </div>
+        </div>
+   </div><!--layer_wrapper class END-->
+
+		<a class="to_top "><i class="fa-angle-up fa-2x"></i></a>
+<!--Footer Start-->
+<div class="footer_wrap layer_wrapper ">
+<div id="footer" class="footer-type4">   
+	<div class="center">
+    
+     
+    <div class="contact-info">
+                	<div class="col-6">
+                    	<div class="box">
+                        	                    <a class="footer-logo" title="Uyksef" href="http://uyksef.org.tr/"><img src="http://uyksef.org.tr/wp-content/uploads/2021/02/fav-01.png" /></a>
+                        	                                                    </div>
+                    </div>
+                    
+                    <div class="col-6">
+                    	<div class="box footer-social-icons">
+                        	                        	<p><div class="social-icons"><a href=" https://www.facebook.com/www.uyksef.org.tr " target="_blank" class="fa fa-facebook fa-1x" title="facebook"></a><a href=" https://www.instagram.com/uykseff/" target="_blank" class="fa fa-instagram fa-1x" title="instagram"></a><a href=" https://www.youtube.com/channel/UCo-5zbsJcnhT3e_c1sYbgZA?reload=9" target="_blank" class="fa fa-youtube fa-1x" title="youtube"></a></div></p>                                                    </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            
+    	<div class="rowfooter">
+            <div class="clear"></div>
+    		            <div class="footercols4"><h3>Uyksef</h3><p>Uzun yıllardır süren eğitim faaliyetlerimizi daha yukarılara taşıma isteği ile gelişen düşünceler ve ileriye dönük hayallerimiz bizi bugün ki durduğumuz noktaya getirdi.</p></div>
+            <div class="footercols4"><h3>Kurumsal</h3><p><div class="menu-footer-container"><ul id="menu-footer" class="footmenu"><li id="menu-item-1766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1766"><a href="http://uyksef.org.tr/kurullar/">Kurullar</a></li>
+<li id="menu-item-1769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1769"><a href="http://uyksef.org.tr/bilgi-bankasi/">Bilgi Bankası</a></li>
+<li id="menu-item-1768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1768"><a href="http://uyksef.org.tr/yurtici-temsilciliklerimiz/">Yurtiçi Temsilciliklerimiz</a></li>
+<li id="menu-item-1767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1767"><a href="http://uyksef.org.tr/yurt-disi-temsilciliklerimiz/">Yurt Dışı Temsilciliklerimiz</a></li>
+<li id="menu-item-1883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1883"><a href="http://uyksef.org.tr/sertifika-sorgulama/">Sertifika Sorgulama</a></li>
+</ul></div></p>            </div>
+            <div class="footercols4"><h3>Eğitimlerimiz</h3><p><div class="menu-egitimler-container"><ul id="menu-egitimler" class="footmenu"><li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755"><a href="http://uyksef.org.tr/askerlere-ozel-egitim/">Askerlere Özel Eğitim</a></li>
+<li id="menu-item-1756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756"><a href="http://uyksef.org.tr/egitim-icerikleri/">Eğitim İçerikleri</a></li>
+<li id="menu-item-1757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757"><a href="http://uyksef.org.tr/birebir-egitim/">Birebir Eğitim</a></li>
+<li id="menu-item-1758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1758"><a href="http://uyksef.org.tr/yakin-koruma-egitim-kampi/">Yakın Koruma Eğitim Kampı</a></li>
+</ul></div></p></div>
+            <div class="footercols4"><h3>İletişim</h3><p>Orhangazi Mahallesi Hür Sokak No:2 Karaman Plaza Kat:3 Pendik/ İstanbul</p><p style="margin-bottom: 0px"><span style="margin-right: 30px">Tel:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0 544 468 7837</span></p><p style="margin-bottom: 0px"><span style="margin-right: 34px">E-mail:</span>info@uyksef.org.tr</p><p style="margin-bottom: 0px">&nbsp;</p></div>
+                                </div>              
+            <div class="clear"></div> 
+            
+            
+    </div>
+    <div id="copyright">
+	<div class="center">
+    	<div class="copytext"><div class="col-6">© Copyright 2020 Uluslararası Yakın Koruma Savunma Eğitim Federasyonu</div><div class="col-6">Design by&nbsp;<a href="http://www.pinadworks.com/">Pin Adworks</a></div></div>
+    </div>
+</div>
+</div>
+
+<!--Footer END-->
+</div><!--layer_wrapper class END-->
+
+
+<script type="text/javascript">
+	jQuery(window).load(function() {
+		//STATIC SLIDER IMAGE FIXED
+		var statimgheight = jQuery(".stat_has_img img").height();
+		var hheight = jQuery(".header").height();		jQuery('.stat_bg').css({"background-position-y":hheight+"px", "top":hheight+"px"});
+		jQuery('.stat_bg_overlay').css({ "top":hheight+"px"});
+		});		
+		jQuery(window).on('scroll', function() {
+			var scrollTop = jQuery(this).scrollTop();
+			var hheight = jQuery(".header").height();
+				if ( !scrollTop ) {
+					jQuery('.stat_bg').css({"background-position-y":hheight+"px"});
+				}else{
+					jQuery('.stat_bg').css({"background-position-y":"0px"});
+				}
+		});
+
+</script>
+
+
+
+
+			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='widget-image-css' href='http://uyksef.org.tr/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.10' type='text/css' media='all' />
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "http:\/\/uyksef.org.tr\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0" id="contact-form-7-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.10" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.10" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Facebook\u2019ta payla\u015f","shareOnTwitter":"Twitter\u2019da payla\u015f\u0131n","pinIt":"Sabitle","download":"\u0130ndir","downloadImage":"G\u00f6rseli indir","fullscreen":"Tam Ekran","zoom":"Yak\u0131nla\u015ft\u0131r","share":"Payla\u015f","playVideo":"Videoyu oynat","previous":"\u00d6nceki","next":"Sonraki","close":"Kapat","a11yCarouselWrapperAriaLabel":"Karuzel | Yatay kayd\u0131rma: Sol ve Sa\u011f Ok","a11yCarouselPrevSlideMessage":"\u00d6nceki Slayt","a11yCarouselNextSlideMessage":"Sonraki Slayt","a11yCarouselFirstSlideMessage":"Bu ilk slayt","a11yCarouselLastSlideMessage":"Bu son slayt","a11yCarouselPaginationBulletMessage":"Slayta Git"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobil Portre","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobil G\u00f6r\u00fcn\u00fcm\u00fc","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portresi","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet G\u00f6r\u00fcn\u00fcm\u00fc","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Diz\u00fcst\u00fc bilgisayar","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Geni\u015f ekran","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.25.10","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"http:\/\/uyksef.org.tr\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"http:\/\/uyksef.org.tr\/wp-admin\/admin-ajax.php","uploadUrl":"http:\/\/uyksef.org.tr\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"f73454a583"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1937,"title":"Referanslar%20%E2%80%93%20Uyksef","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://uyksef.org.tr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.10" id="elementor-frontend-js"></script>
+</body>
+</html>
+
+<!-- Page cached by LiteSpeed Cache 6.5.2 on 2024-11-26 11:00:43 -->
