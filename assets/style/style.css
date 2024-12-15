@@ -270,3 +270,82 @@ display: flex;
     height: 100%;
 } 
 /*! Main Referans Alanı Bitiş */
+
+
+
+
+/** Main Products Alanı Başlangıç */
+
+.main-products{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.main-products-header{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sour Gummy", sans-serif;
+    font-size:2.1rem;
+}
+.main-products-body{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.main-products-body .box{
+    width: 33%;
+    height: 60%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid gray;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px gray;
+
+}
+.main-products-body .box .box-header{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main-products-body .box .box-header img{
+    padding: 5px;
+    
+}
+.main-products-body .box .box-footer{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.main-products-body .box .box-footer span {
+    font-family: "Sour Gummy", sans-serif;
+    font-size:1.5rem;
+}
+.main-products-body .box .box-footer button {
+width: 20%;
+height: 20%;
+margin-top: 10px;
+background-color: #765e4e;
+border: 2px 2px solid white; 
+color: aliceblue;
+font-family: "Sour Gummy", sans-serif;
+cursor: pointer;
+}
+
+/*! Main Products Alanı Bitiş */
