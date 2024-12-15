@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+section {
+    margin-top: 50px;
+}
+
 header {
     width: 100%;
     height: 20vh;
@@ -60,8 +64,9 @@ main {
     width: 100%;
     min-height: 80vh;
     display: flex;
-    flex-direction: column; /** içeriği alt alta geçiri  */
-    
+    flex-direction: column;
+    /** içeriği alt alta geçiri  */
+
     justify-content: flex-start;
     align-items: flex-start;
 }
@@ -161,42 +166,48 @@ main .main-about .main-about-footer .main-about-btn {
 /*?  ABOUT ALANI BİTİŞ */
 
 /**  Bize Katılın Alanı */
-.main-bize-katilin{
+.main-bize-katilin {
     width: 100%;
     height: 70vh;
     display: flex;
 }
-.main-bize-katilin-left{
+
+.main-bize-katilin-left {
     width: 50%;
     height: 100%;
     padding: 10px;
 
 }
-.main-bize-katilin-left img{
+
+.main-bize-katilin-left img {
     width: 100%;
     height: 100%;
     border-top-right-radius: 1.5rem;
     border-bottom-left-radius: 1.5rem;
 }
-.main-bize-katilin-right{
+
+.main-bize-katilin-right {
     width: 50%;
     height: 100%;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
 }
-.main-bize-katilin-header{
+
+.main-bize-katilin-header {
     width: 100%;
     height: 30%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-  
+
 }
+
 .main-bize-katilin-header h2 {
     font-size: 2.5rem;
     font-family: "Sour Gummy", sans-serif;
 }
+
 .main-bize-katilin-body {
     width: 100%;
     height: 40%;
@@ -205,12 +216,14 @@ main .main-about .main-about-footer .main-about-btn {
     font-size: 1.0rem;
     font-family: "Sour Gummy", sans-serif;
 }
-.main-bize-katilin-footer{
+
+.main-bize-katilin-footer {
     width: 100%;
     height: 30%;
     display: flex;
     justify-content: flex-end;
 }
+
 .main-bize-katilin-footer button {
     width: 200px;
     height: 50px;
@@ -228,55 +241,61 @@ main .main-about .main-about-footer .main-about-btn {
 /*!  Bize Katılın Bitiş */
 
 
-/** Main Referans Alanı Başlangıç */
+/*? Main Referans Alanı Başlangıç */
 
-.main-reference{
+.main-reference {
     width: 100%;
     height: 70vh;
-    display: flex;   
+    display: flex;
     flex-direction: column;
 
 }
-.main-referans-header{
+
+.main-referans-header {
     width: 100%;
     min-height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
-   
-    
+
+
 }
-.main-referans-header h2{
+
+.main-referans-header h2 {
     font-family: "Sour Gummy", sans-serif;
-    font-size:3.1rem;
-    
+    font-size: 3.1rem;
+
 }
-.main-referans-icerik{
+
+.main-referans-icerik {
     width: 100%;
     height: 100%;
     display: flex;
 
 }
+
 .main-reference .main-reference-box {
-width: 30%;
-height: 70%;
-margin: 5px;
-display: flex;
+    width: 30%;
+    height: 70%;
+    margin: 5px;
+    display: flex;
 
 
 }
+
 .main-reference .main-reference-box img {
     width: 100%;
     height: 100%;
-} 
+}
+
 /*! Main Referans Alanı Bitiş */
 
 
 
 
-/** Main Products Alanı Başlangıç */
+/*? Main Products Alanı Başlangıç */
 
-.main-products{
+.main-products {
     width: 100%;
     height: 60vh;
     display: flex;
@@ -284,22 +303,25 @@ display: flex;
     align-items: flex-start;
     flex-direction: column;
 }
-.main-products-header{
+
+.main-products-header {
     width: 100%;
     height: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: "Sour Gummy", sans-serif;
-    font-size:2.1rem;
+    font-size: 2.1rem;
 }
-.main-products-body{
+
+.main-products-body {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
-.main-products-body .box{
+
+.main-products-body .box {
     width: 33%;
     height: 60%;
     display: flex;
@@ -313,19 +335,22 @@ display: flex;
     box-shadow: 5px 5px gray;
 
 }
-.main-products-body .box .box-header{
+
+.main-products-body .box .box-header {
     width: 100%;
     height: 70%;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
-.main-products-body .box .box-header img{
+
+.main-products-body .box .box-header img {
     padding: 5px;
-    
+
 }
-.main-products-body .box .box-footer{
+
+.main-products-body .box .box-footer {
     width: 100%;
     height: 30%;
     display: flex;
@@ -333,19 +358,120 @@ display: flex;
     align-items: center;
     flex-direction: column;
 }
+
 .main-products-body .box .box-footer span {
     font-family: "Sour Gummy", sans-serif;
-    font-size:1.5rem;
+    font-size: 1.5rem;
 }
+
 .main-products-body .box .box-footer button {
-width: 20%;
-height: 20%;
-margin-top: 10px;
-background-color: #765e4e;
-border: 2px 2px solid white; 
-color: aliceblue;
-font-family: "Sour Gummy", sans-serif;
-cursor: pointer;
+    width: 20%;
+    height: 20%;
+    margin-top: 10px;
+    background-color: #765e4e;
+    border: 2px 2px solid white;
+    color: aliceblue;
+    font-family: "Sour Gummy", sans-serif;
+    cursor: pointer;
 }
 
 /*! Main Products Alanı Bitiş */
+
+
+
+/*? Footer Alanı Başlangıç */
+
+footer {
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #5c493d;
+    margin-top: 100px;
+}
+
+footer .footer-box-left {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 1.2rem;
+    color: white;
+
+}
+
+footer .footer-box-left h2 {
+    width: 100%;
+    padding: 10px;
+}
+
+footer .footer-box-left p {
+    font-size: 1rem;
+    padding: 10px;
+}
+
+footer .footer-box-center {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 1.2rem;
+
+}
+
+footer .footer-box-center ul {
+    list-style: none;
+
+}
+
+footer .footer-box-center ul li {
+    margin-top: 15px;
+}
+
+footer .footer-box-center ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+footer .footer-box-right {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 1.2rem;
+
+}
+
+
+footer .footer-box-right ul {
+    width: 33%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+footer .footer-box-right ul li a {
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+/*! Footer Alanı Bitiş */
