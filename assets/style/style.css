@@ -347,7 +347,7 @@ main .main-about .main-about-footer .main-about-btn {
 }
 
 .main-products-body .box {
-    width: 33%;
+    width: 30%;
     height: 60%;
     display: flex;
     justify-content: flex-start;
@@ -358,6 +358,8 @@ main .main-about .main-about-footer .main-about-btn {
     margin: 20px;
     border-radius: 10px;
     box-shadow: 5px 5px gray;
+    border-top-right-radius: 1.5rem;
+    border-bottom-left-radius: 1.5rem;
 
 }
 
@@ -367,6 +369,8 @@ main .main-about .main-about-footer .main-about-btn {
     display: flex;
     justify-content: center;
     align-items: center;
+    object-fit: cover; /** resmin orjinalini bozmuyor */
+
 
 }
 
